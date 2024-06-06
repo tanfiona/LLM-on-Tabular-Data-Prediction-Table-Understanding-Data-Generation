@@ -1,4 +1,4 @@
-# Large-Language-Models-on-Tabular-Data-Prediction-Generation-and-Understanding-A-Survey
+# Large Language Models on Tabular Data -- A Survey
 
 
 ```
