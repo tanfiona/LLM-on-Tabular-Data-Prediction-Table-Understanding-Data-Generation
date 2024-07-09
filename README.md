@@ -88,16 +88,11 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 
 #### Time series 
 
+**[LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law](https://arxiv.org/abs/2402.00795)**
+
 **[PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting](https://arxiv.org/abs/2210.08964)**   
 
-
-
-
 **[Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2310.07820)**  
-
-
-
-
 **[TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series](https://arxiv.org/abs/2308.08241)**  
 
 
