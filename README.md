@@ -185,6 +185,9 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 
 **[Unified Language Representation for Question Answering over Text, Tables, and Images](https://aclanthology.org/2023.findings-acl.292/)**
 
+**[SUQL: Conversational Search over Structured and Unstructured Data with Large Language Models](https://aclanthology.org/2024.findings-naacl.283/)**
+**[[code](https://github.com/stanford-oval/suql)]**
+
 **[TableLlama: Towards Open Large Generalist Models for Tables](https://arxiv.org/abs/2311.09206)**
 **[[code](https://github.com/OSU-NLP-Group/TableLlama)]**
 
