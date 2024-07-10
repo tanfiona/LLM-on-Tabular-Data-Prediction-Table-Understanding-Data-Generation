@@ -84,6 +84,11 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 **[Towards Better Serialization of Tabular Data for Few-shot Classification with Large Language Models
 ](https://arxiv.org/abs/2312.12464)**  
 
+**[Multimodal clinical pseudo-notes for emergency department prediction tasks using multiple embedding model for ehr (meme)](https://arxiv.org/abs/2402.00160)**
+**[[code](https://github.com/Simonlee711/MEME)]
+
+**[Text Serialization and Their Relationship with the Conventional Paradigms of Tabular Machine Learning](https://arxiv.org/abs/2406.13846)**
+
 
 
 #### Time series 
@@ -99,8 +104,6 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 
 
 **[TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series](https://arxiv.org/abs/2308.08241)**  
-
-
 
 
 **[Time-LLM: Time Series Forecasting by Reprogramming Large Language Models](https://arxiv.org/abs/2310.01728)**  
