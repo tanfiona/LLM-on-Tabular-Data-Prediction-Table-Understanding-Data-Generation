@@ -210,7 +210,8 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 **[TableQuery: Querying tabular data with natural language](https://arxiv.org/abs/2202.00454)**
 **[[code](https://github.com/abhijithneilabraham/tableQA)]**
 
-
+**[Before Generation, Align it! A Novel and Effective Strategy for Mitigating Hallucinations in Text-to-SQL Generation](https://arxiv.org/abs/2405.15307)**
+**[[code](https://github.com/quge2023/TA-SQL)]**
 
 
 <a id="dataset"></a>
@@ -243,7 +244,8 @@ TabFact | 16573 | NLI | Table, Statement | Label | Wikipedia | https://tabfact.g
 TAPEX  | 1500 | Text2SQL | SQL, Table | Answer | Synthetic | https://github.com/google-research/tapas | 
 Spider  | 1020 | Text2SQL | Table, Question | SQL | Human annotation | https://drive.usercontent.google.com/download?id=1iRDVHLr4mX2wQKSgA9J8Pire73Jahh0m&export=download&authuser=0 | 
 WIKISQL | 24241 | Text2SQL | Table, Question | SQL, Answer | Human Annotated | https://github.com/salesforce/WikiSQL|
-
+BIRD-SQL | 784 | Text2SQL | Table, Question, Knowledge | SQLite / MySQL / PostgreSQL | Human Annotated | https://bird-bench.github.io/ |
+Tapilot-Crossing | 5 | Text2Code, QA, RAG | Table, Dialog History, Question, Private Lib, Chart | Python, Private Lib Code, Answer | Human-Agent Interaction | https://tapilot-crossing.github.io/ |
 
 # Contributing
 If you would like to contribute to this list or writeup, feel free to submit a pull request!
