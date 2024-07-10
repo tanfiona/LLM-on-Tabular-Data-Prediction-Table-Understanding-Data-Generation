@@ -210,6 +210,16 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 **[TableQuery: Querying tabular data with natural language](https://arxiv.org/abs/2202.00454)**
 **[[code](https://github.com/abhijithneilabraham/tableQA)]**
 
+**[When is Tree Search Useful for LLM Planning? It Depends on the Discriminator](https://arxiv.org/abs/2402.10890)**
+**[[code](https://github.com/OSU-NLP-Group/llm-planning-eval)]**
+
+**[Exploring Chain of Thought Style Prompting for Text-to-SQL](https://arxiv.org/abs/2305.14215)**
+
+**[Text-to-SQL Error Correction with Language Models of Code](https://arxiv.org/abs/2305.13073)**
+**[[code](https://github.com/OSU-NLP-Group/Auto-SQL-Correction)]**
+
+**[Error Detection for Text-to-SQL Semantic Parsing](https://arxiv.org/abs/2305.13683)**
+**[[code](https://github.com/OSU-NLP-Group/Text2SQL-Error-Detection)]**
 
 
 
