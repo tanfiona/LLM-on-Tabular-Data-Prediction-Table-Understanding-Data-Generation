@@ -210,7 +210,9 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 **[TableQuery: Querying tabular data with natural language](https://arxiv.org/abs/2202.00454)**
 **[[code](https://github.com/abhijithneilabraham/tableQA)]**
 
-
+#### Fact Verification
+**[Table-based Fact Verification with Salience-aware Learning](https://arxiv.org/abs/2109.04053)**
+**[[code](https://github.com/luka-group/Salience-aware-Learning)]**
 
 
 <a id="dataset"></a>
