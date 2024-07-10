@@ -210,6 +210,9 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 **[TableQuery: Querying tabular data with natural language](https://arxiv.org/abs/2202.00454)**
 **[[code](https://github.com/abhijithneilabraham/tableQA)]**
 
+#### Table2Text
+**[Robust (Controlled) Table-to-Text Generation with Structure-Aware Equivariance Learning](https://arxiv.org/abs/2205.03972)**
+**[[code](https://github.com/luka-group/Lattice)]**
 
 
 
