@@ -86,6 +86,18 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 
 
 
+**[UniTabE: A Universal Pretraining Protocol for Tabular Foundation Model in Data Science
+](https://arxiv.org/abs/2307.09249)**  
+
+
+
+**[Unleashing the Potential of Large Language Models for Predictive Tabular Tasks in Data Science
+](https://arxiv.org/abs/2403.20208)**
+**[[model](https://huggingface.co/OldBirdAZ/itab-llm)]**  
+
+
+
+
 #### Time series 
 
 **[PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting](https://arxiv.org/abs/2210.08964)**   
