@@ -150,6 +150,9 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 **[TabMT: Generating tabular data with masked transformers](https://arxiv.org/abs/2312.06089)**
 
 **[Elephants Never Forget: Testing Language Models for Memorization of Tabular Data](https://arxiv.org/abs/2403.06644)**
+
+**[S3eval: A synthetic, scalable, systematic evaluation suite for large language models](https://arxiv.org/abs/2310.15147)**
+
 <a id="understanding"></a>
 
 
@@ -161,6 +164,8 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 **[Exploring the Numerical Reasoning Capabilities of Language Models: A Comprehensive Analysis on Tabular Data](https://arxiv.org/abs/2311.02216)**
 
 **[TableGPT: Towards Unifying Tables, Nature Language and Commands into One GPT](https://arxiv.org/abs/2307.08674)**
+
+**[Answering numerical reasoning questions in table-text hybrid contents with graph-based encoder and tree-based decoder](https://arxiv.org/abs/2209.07692)**
 
 #### Question Answering
 **[Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning](https://arxiv.org/abs/2301.13808)**
@@ -181,6 +186,8 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 
 **[Rethinking Tabular Data Understanding with Large Language Models](https://arxiv.org/abs/2312.16702)**
 **[[code](https://github.com/Leolty/tablellm)]**
+
+**[S3HQA: A Three-Stage Approach for Multi-hop Text-Table Hybrid Question Answering](https://arxiv.org/abs/2305.11725)**
 
 **[TableGPT: Towards Unifying Tables, Nature Language and Commands into One GPT](https://arxiv.org/abs/2307.08674)**
 
@@ -246,6 +253,7 @@ TabFact | 16573 | NLI | Table, Statement | Label | Wikipedia | https://tabfact.g
 TAPEX  | 1500 | Text2SQL | SQL, Table | Answer | Synthetic | https://github.com/google-research/tapas | 
 Spider  | 1020 | Text2SQL | Table, Question | SQL | Human annotation | https://drive.usercontent.google.com/download?id=1iRDVHLr4mX2wQKSgA9J8Pire73Jahh0m&export=download&authuser=0 | 
 WIKISQL | 24241 | Text2SQL | Table, Question | SQL, Answer | Human Annotated | https://github.com/salesforce/WikiSQL|
+S3Eval | 1000 ～ ∞  | SQL Execution | Table, SQL | Answer | Auto Generation | https://github.com/lfy79001/S3Eval |
 
 
 # Contributing
