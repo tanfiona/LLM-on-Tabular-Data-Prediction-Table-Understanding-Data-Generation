@@ -156,6 +156,7 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 
 **[Plan-then-Seam: Towards Efficient Table-to-Text Generation](https://arxiv.org/abs/2302.05138)**
 
+**[Differentially Private Tabular Data Synthesis using Large Language Models](https://arxiv.org/abs/2406.01457)**
 
 
 ### Table understanding
