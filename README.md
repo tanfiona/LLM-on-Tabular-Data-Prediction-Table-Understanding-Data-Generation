@@ -89,7 +89,9 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 
 **[Text Serialization and Their Relationship with the Conventional Paradigms of Tabular Machine Learning](https://arxiv.org/abs/2406.13846)**
 
-
+**[StructLM: Towards Building Generalist Models for Structured
+Knowledge Grounding
+](https://arxiv.org/pdf/2402.16671)**
 
 #### Time series 
 
@@ -156,7 +158,8 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 
 **[Plan-then-Seam: Towards Efficient Table-to-Text Generation](https://arxiv.org/abs/2302.05138)**
 
-
+**[Pythia: Unsupervised Generation of Ambiguous Textual Claims
+from Relational Data](https://iris.unibas.it/bitstream/11563/157086/1/42.SIGMOD2022.pdf)**
 
 ### Table understanding
 ---
@@ -203,6 +206,7 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 
 **[JarviX: A LLM No code Platform for Tabular Data Analysis and Optimization](https://arxiv.org/abs/2312.02213)**
 
+**[Querying Large Language Models with SQL](https://arxiv.org/pdf/2304.00472)**
 
 #### Text2SQL
 **[Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation](https://arxiv.org/abs/2308.15363)**
