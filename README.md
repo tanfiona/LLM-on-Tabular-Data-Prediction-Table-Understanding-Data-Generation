@@ -136,6 +136,8 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 **[Language Models are Realistic Tabular Data Generators](https://arxiv.org/abs/2210.06280)**
 **[[code](https://github.com/kathrinse/be_great)]**
 
+**[DTT: An Example-Driven Tabular Transformer for Joinability by Leveraging Large Language Models](https://arxiv.org/abs/2303.06748)**
+**[[code](https://github.com/arashdn/dtt)]**
 
 **[REaLTabFormer: Generating Realistic Relational and Tabular Data using Transformers](https://arxiv.org/abs/2302.02041)**
 
@@ -201,6 +203,9 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 **[StructGPT: A General Framework for Large Language Model to Reason over Structured Data](https://aclanthology.org/2023.emnlp-main.574/)**
 **[[code](https://github.com/RUCAIBox/StructGPT)]**
 
+**[TabSQLify: Enhancing Reasoning Capabilities of LLMs Through Table Decomposition](https://arxiv.org/abs/2404.10150)**
+**[[code](https://github.com/mahadi-nahid/TabSQLify)]**
+
 **[JarviX: A LLM No code Platform for Tabular Data Analysis and Optimization](https://arxiv.org/abs/2312.02213)**
 
 
@@ -209,6 +214,9 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 
 **[DIN-SQL: Decomposed In-Context Learning of Text-to-SQL with Self-Correction](https://arxiv.org/abs/2304.11015)**
 **[[code](https://github.com/mohammadrezapourreza/few-shot-nl2sql-with-prompting)]**
+
+**[DTS-SQL: Decomposed Text-to-SQL with Small Large Language Models](https://arxiv.org/abs/2402.01117)**
+**[[code](https://github.com/MohammadrezaPourreza/DTS-SQL)]**
 
 **[C3: Zero-shot Text-to-SQL with ChatGPT](https://arxiv.org/abs/2307.07306)**
 **[[code](https://github.com/bigbigwatermalon/C3SQL)]**
