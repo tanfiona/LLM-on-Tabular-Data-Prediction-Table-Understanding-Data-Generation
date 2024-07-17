@@ -203,6 +203,8 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 
 **[JarviX: A LLM No code Platform for Tabular Data Analysis and Optimization](https://arxiv.org/abs/2312.02213)**
 
+**[Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow](https://arxiv.org/abs/2306.07209)**
+**[[code](https://github.com/zwq2018/Data-Copilot)]**
 
 #### Text2SQL
 **[Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation](https://arxiv.org/abs/2308.15363)**
