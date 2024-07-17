@@ -240,6 +240,10 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 
 **[Towards Generalizable and Robust Text-to-SQL Parsing](https://arxiv.org/abs/2210.12674)**
 
+#### Fact Verification
+**[Table-based Fact Verification with Salience-aware Learning](https://arxiv.org/abs/2109.04053)**
+**[[code](https://github.com/luka-group/Salience-aware-Learning)]**
+
 
 <a id="dataset"></a>
 ## Datasets
