@@ -84,23 +84,33 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 **[Towards Better Serialization of Tabular Data for Few-shot Classification with Large Language Models
 ](https://arxiv.org/abs/2312.12464)**  
 
+**[Multimodal clinical pseudo-notes for emergency department prediction tasks using multiple embedding model for ehr (meme)](https://arxiv.org/abs/2402.00160)**
+**[[code](https://github.com/Simonlee711/MEME)]
+
+**[Text Serialization and Their Relationship with the Conventional Paradigms of Tabular Machine Learning](https://arxiv.org/abs/2406.13846)**
+
+
+
+**[UniTabE: A Universal Pretraining Protocol for Tabular Foundation Model in Data Science
+](https://arxiv.org/abs/2307.09249)**  
+
+
+
+**[Unleashing the Potential of Large Language Models for Predictive Tabular Tasks in Data Science
+](https://arxiv.org/abs/2403.20208)**
+**[[model](https://huggingface.co/OldBirdAZ/itab-llm)]**  
+
+
 
 
 #### Time series 
 
+**[LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law](https://arxiv.org/abs/2402.00795)**
+
 **[PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting](https://arxiv.org/abs/2210.08964)**   
 
-
-
-
 **[Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2310.07820)**  
-
-
-
-
 **[TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series](https://arxiv.org/abs/2308.08241)**  
-
-
 
 
 **[Time-LLM: Time Series Forecasting by Reprogramming Large Language Models](https://arxiv.org/abs/2310.01728)**  
@@ -149,6 +159,11 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 **[Elephants Never Forget: Testing Language Models for Memorization of Tabular Data](https://arxiv.org/abs/2403.06644)**
 <a id="understanding"></a>
 
+**[Graph-to-Text Generation with Dynamic Structure Pruning](https://arxiv.org/abs/2209.07258)**
+
+**[Plan-then-Seam: Towards Efficient Table-to-Text Generation](https://arxiv.org/abs/2302.05138)**
+
+
 
 ### Table understanding
 ---
@@ -185,6 +200,9 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 
 **[Unified Language Representation for Question Answering over Text, Tables, and Images](https://aclanthology.org/2023.findings-acl.292/)**
 
+**[SUQL: Conversational Search over Structured and Unstructured Data with Large Language Models](https://aclanthology.org/2024.findings-naacl.283/)**
+**[[code](https://github.com/stanford-oval/suql)]**
+
 **[TableLlama: Towards Open Large Generalist Models for Tables](https://arxiv.org/abs/2311.09206)**
 **[[code](https://github.com/OSU-NLP-Group/TableLlama)]**
 
@@ -195,7 +213,12 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 
 **[JarviX: A LLM No code Platform for Tabular Data Analysis and Optimization](https://arxiv.org/abs/2312.02213)**
 
+
 **[Traffic Performance GPT (TP-GPT): Real-Time Data Informed Intelligent ChatBot for Transportation Surveillance and Management](https://arxiv.org/abs/2405.03076)**
+
+
+**[Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow](https://arxiv.org/abs/2306.07209)**
+**[[code](https://github.com/zwq2018/Data-Copilot)]**
 
 
 #### Text2SQL
@@ -212,7 +235,15 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 **[TableQuery: Querying tabular data with natural language](https://arxiv.org/abs/2202.00454)**
 **[[code](https://github.com/abhijithneilabraham/tableQA)]**
 
+**[S2SQL: Injecting Syntax to Question-Schema Interaction Graph Encoder for Text-to-SQL Parsers](https://arxiv.org/abs/2203.06958)**
 
+**[Dynamic hybrid relation network for cross-domain context-dependent semantic parsing](https://arxiv.org/abs/2101.01686)**
+
+**[STAR: SQL Guided Pre-Training for Context-dependent Text-to-SQL Parsing](https://arxiv.org/abs/2210.11888)**
+
+**[SUN: Exploring Intrinsic Uncertainties in Text-to-SQL Parsers](https://arxiv.org/abs/2209.06442)**
+
+**[Towards Generalizable and Robust Text-to-SQL Parsing](https://arxiv.org/abs/2210.12674)**
 
 
 <a id="dataset"></a>
@@ -229,22 +260,26 @@ UCI ML           | 20                          | https://github.com/dylan-slack/
 DDX              | 10                          | https://github.com/dylan-slack/Tablet/tree/main/data/ddx_data_no_instructions/benchmark |
 <a id="dqa"></a>
 ### Table Understanding Tasks
-|Dataset|# Tables|Task Type|Input|Output|Data Source|Dataset Repo|
-| ----- | ------ | ------- | --- | ---- | --------- | ------------------ |
-FetaQA | 10330 | QA | Table Question | Answer | Wikipedia | https://github.com/Yale-LILY/FeTaQA| 
-WikiTableQuestion | 2108 | QA | Table Question | Answer | Wikipedia | https://ppasupat.github.io/WikiTableQuestions/| 
-NQ-TABLES | 169898 | QA | Question, Table | Answer | Synthetic | https://github.com/google-research-datasets/natural-questions| 
-HybriDialogue | 13000 | QA | Conversation, Table, Reference | Answer | Wikipedia | https://github.com/entitize/HybridDialogue| 
-TAT-QA  | 2757 | QA | Question, Table | Answer | Financial report | https://github.com/NExTplusplus/TAT-QA | 
-HiTAB | 3597 | QA/NLG | Question, Table | Answer | Statistical Report and Wikipedia | https://github.com/microsoft/HiTab| 
-ToTTo | 120000 | NLG | Table | Sentence | Wikipedia  | https://github.com/google-research-datasets/ToTTo| 
-FEVEROUS  | 28800 | Classification | Claim, Table | Label | Common Crawl | https://fever.ai/dataset/feverous.html| 
-Dresden Web Tables| 125M | Classification | Table | Label | Common Crawl | https://ppasupat.github.io/WikiTableQuestions/| 
-InfoTabs  | 2540 | NLI | Table , Hypothesis | Label | Wikipedia | https://infotabs.github.io/| 
-TabFact | 16573 | NLI | Table, Statement | Label | Wikipedia | https://tabfact.github.io/ | 
-TAPEX  | 1500 | Text2SQL | SQL, Table | Answer | Synthetic | https://github.com/google-research/tapas | 
+|Dataset|# Tables|Task Type|Input|Output|Data Source| Dataset Repo                                                                                                  |
+| ----- | ------ | ------- | --- | --- | --------- |---------------------------------------------------------------------------------------------------------------|
+FetaQA | 10330 | QA | Table Question | Answer | Wikipedia | https://github.com/Yale-LILY/FeTaQA                                                                           | 
+WikiTableQuestion | 2108 | QA | Table Question | Answer | Wikipedia | https://ppasupat.github.io/WikiTableQuestions/                                                                | 
+NQ-TABLES | 169898 | QA | Question, Table | Answer | Synthetic | https://github.com/google-research-datasets/natural-questions                                                 | 
+HybriDialogue | 13000 | QA | Conversation, Table, Reference | Answer | Wikipedia | https://github.com/entitize/HybridDialogue                                                                    | 
+TAT-QA  | 2757 | QA | Question, Table | Answer | Financial report | https://github.com/NExTplusplus/TAT-QA                                                                        | 
+HiTAB | 3597 | QA/NLG | Question, Table | Answer | Statistical Report and Wikipedia | https://github.com/microsoft/HiTab                                                                            | 
+ToTTo | 120000 | NLG | Table | Sentence | Wikipedia  | https://github.com/google-research-datasets/ToTTo                                                             | 
+FEVEROUS  | 28800 | Classification | Claim, Table | Label | Common Crawl | https://fever.ai/dataset/feverous.html                                                                        | 
+Dresden Web Tables| 125M | Classification | Table | Label | Common Crawl | https://ppasupat.github.io/WikiTableQuestions/                                                                | 
+InfoTabs  | 2540 | NLI | Table , Hypothesis | Label | Wikipedia | https://infotabs.github.io/                                                                                   | 
+TabFact | 16573 | NLI | Table, Statement | Label | Wikipedia | https://tabfact.github.io/                                                                                    | 
+TAPEX  | 1500 | Text2SQL | SQL, Table | Answer | Synthetic | https://github.com/google-research/tapas                                                                      | 
 Spider  | 1020 | Text2SQL | Table, Question | SQL | Human annotation | https://drive.usercontent.google.com/download?id=1iRDVHLr4mX2wQKSgA9J8Pire73Jahh0m&export=download&authuser=0 | 
-WIKISQL | 24241 | Text2SQL | Table, Question | SQL, Answer | Human Annotated | https://github.com/salesforce/WikiSQL|
+WIKISQL | 24241 | Text2SQL | Table, Question | SQL, Answer | Human Annotated | https://github.com/salesforce/WikiSQL                                                                         |
+BIRD | 12751 | Text2SQL | Table, Question | SQL | Human Annotated | https://bird-bench.github.io/                                                                                 |
+
+## Survey
+**[A Survey on Text-to-SQL Parsing: Concepts, Methods, and Future Directions](https://arxiv.org/abs/2208.13629)**
 
 
 # Contributing
