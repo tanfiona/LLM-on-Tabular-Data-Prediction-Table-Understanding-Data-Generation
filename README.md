@@ -214,6 +214,8 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 
 **[JarviX: A LLM No code Platform for Tabular Data Analysis and Optimization](https://arxiv.org/abs/2312.02213)**
 
+**[CABINET: Content Relevance-based Noise Reduction for Table Question Answering](https://arxiv.org/abs/2402.01155)**
+**[[code](https://github.com/Sohanpatnaik106/CABINET_QA)]
 
 **[Traffic Performance GPT (TP-GPT): Real-Time Data Informed Intelligent ChatBot for Transportation Surveillance and Management](https://arxiv.org/abs/2405.03076)**
 
