@@ -248,6 +248,9 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 
 **[Towards Generalizable and Robust Text-to-SQL Parsing](https://arxiv.org/abs/2210.12674)**
 
+**[Before Generation, Align it! A Novel and Effective Strategy for Mitigating Hallucinations in Text-to-SQL Generation](https://arxiv.org/abs/2405.15307)**
+**[[code](https://github.com/quge2023/TA-SQL)]**
+
 
 #### Table2Text
 **[Robust (Controlled) Table-to-Text Generation with Structure-Aware Equivariance Learning](https://arxiv.org/abs/2205.03972)**
@@ -304,6 +307,7 @@ TAPEX  | 1500 | Text2SQL | SQL, Table | Answer | Synthetic | https://github.com/
 Spider  | 1020 | Text2SQL | Table, Question | SQL | Human annotation | https://drive.usercontent.google.com/download?id=1iRDVHLr4mX2wQKSgA9J8Pire73Jahh0m&export=download&authuser=0 | 
 WIKISQL | 24241 | Text2SQL | Table, Question | SQL, Answer | Human Annotated | https://github.com/salesforce/WikiSQL                                                                         |
 BIRD | 12751 | Text2SQL | Table, Question | SQL | Human Annotated | https://bird-bench.github.io/                                                                                 |
+Tapilot-Crossing | 5 | Text2Code, QA, RAG | Table, Dialog History, Question, Private Lib, Chart | Python, Private Lib Code, Answer | Human-Agent Interaction | https://tapilot-crossing.github.io/ |
 
 ## Survey
 **[A Survey on Text-to-SQL Parsing: Concepts, Methods, and Future Directions](https://arxiv.org/abs/2208.13629)**
