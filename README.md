@@ -255,6 +255,20 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 **[Table-based Fact Verification with Salience-aware Learning](https://arxiv.org/abs/2109.04053)**
 **[[code](https://github.com/luka-group/Salience-aware-Learning)]**
 
+#### Table Profiling
+
+**[Cocoon: Semantic Table Profiling Using Large Language Models](https://dl.acm.org/doi/abs/10.1145/3665939.3665957)**
+**[[code](https://cocoon-data-transformation.github.io/page/profile)]**
+
+
+#### Table Transformation
+
+**[Relationalizing Tables with Large Language Models: The Promise and Challenges](https://ieeexplore.ieee.org/abstract/document/10555085/)**
+
+#### Entity Matching
+
+**[Disambiguate Entity Matching using Large Language Models through Relation Discovery](https://dl.acm.org/doi/abs/10.1145/3665601.3669844)**
+**[[code](https://cocoon-data-transformation.github.io/page/standardize)]**
 
 <a id="dataset"></a>
 ## Datasets
