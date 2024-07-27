@@ -89,7 +89,9 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 
 **[Text Serialization and Their Relationship with the Conventional Paradigms of Tabular Machine Learning](https://arxiv.org/abs/2406.13846)**
 
-
+**[StructLM: Towards Building Generalist Models for Structured
+Knowledge Grounding
+](https://arxiv.org/pdf/2402.16671)**
 
 **[UniTabE: A Universal Pretraining Protocol for Tabular Foundation Model in Data Science
 ](https://arxiv.org/abs/2307.09249)**  
@@ -165,6 +167,7 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 
 **[Differentially Private Tabular Data Synthesis using Large Language Models](https://arxiv.org/abs/2406.01457)**
 
+**[Pythia: Unsupervised Generation of Ambiguous Textual Claims from Relational Data](https://iris.unibas.it/bitstream/11563/157086/1/42.SIGMOD2022.pdf)**
 
 ### Table understanding
 ---
@@ -219,9 +222,10 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 
 **[Traffic Performance GPT (TP-GPT): Real-Time Data Informed Intelligent ChatBot for Transportation Surveillance and Management](https://arxiv.org/abs/2405.03076)**
 
-
 **[Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow](https://arxiv.org/abs/2306.07209)**
 **[[code](https://github.com/zwq2018/Data-Copilot)]**
+
+**[Querying Large Language Models with SQL](https://arxiv.org/pdf/2304.00472)**
 
 
 #### Text2SQL
