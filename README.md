@@ -93,18 +93,25 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 Knowledge Grounding
 ](https://arxiv.org/pdf/2402.16671)**
 
+**[UniTabE: A Universal Pretraining Protocol for Tabular Foundation Model in Data Science
+](https://arxiv.org/abs/2307.09249)**  
+
+
+
+**[Unleashing the Potential of Large Language Models for Predictive Tabular Tasks in Data Science
+](https://arxiv.org/abs/2403.20208)**
+**[[model](https://huggingface.co/OldBirdAZ/itab-llm)]**  
+
+
+
+
 #### Time series 
+
+**[LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law](https://arxiv.org/abs/2402.00795)**
 
 **[PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting](https://arxiv.org/abs/2210.08964)**   
 
-
-
-
 **[Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2310.07820)**  
-
-
-
-
 **[TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series](https://arxiv.org/abs/2308.08241)**  
 
 
@@ -158,8 +165,9 @@ Knowledge Grounding
 
 **[Plan-then-Seam: Towards Efficient Table-to-Text Generation](https://arxiv.org/abs/2302.05138)**
 
-**[Pythia: Unsupervised Generation of Ambiguous Textual Claims
-from Relational Data](https://iris.unibas.it/bitstream/11563/157086/1/42.SIGMOD2022.pdf)**
+**[Differentially Private Tabular Data Synthesis using Large Language Models](https://arxiv.org/abs/2406.01457)**
+
+**[Pythia: Unsupervised Generation of Ambiguous Textual Claims from Relational Data](https://iris.unibas.it/bitstream/11563/157086/1/42.SIGMOD2022.pdf)**
 
 ### Table understanding
 ---
@@ -196,6 +204,9 @@ from Relational Data](https://iris.unibas.it/bitstream/11563/157086/1/42.SIGMOD2
 
 **[Unified Language Representation for Question Answering over Text, Tables, and Images](https://aclanthology.org/2023.findings-acl.292/)**
 
+**[SUQL: Conversational Search over Structured and Unstructured Data with Large Language Models](https://aclanthology.org/2024.findings-naacl.283/)**
+**[[code](https://github.com/stanford-oval/suql)]**
+
 **[TableLlama: Towards Open Large Generalist Models for Tables](https://arxiv.org/abs/2311.09206)**
 **[[code](https://github.com/OSU-NLP-Group/TableLlama)]**
 
@@ -206,7 +217,16 @@ from Relational Data](https://iris.unibas.it/bitstream/11563/157086/1/42.SIGMOD2
 
 **[JarviX: A LLM No code Platform for Tabular Data Analysis and Optimization](https://arxiv.org/abs/2312.02213)**
 
+**[CABINET: Content Relevance-based Noise Reduction for Table Question Answering](https://arxiv.org/abs/2402.01155)**
+**[[code](https://github.com/Sohanpatnaik106/CABINET_QA)]
+
+**[Traffic Performance GPT (TP-GPT): Real-Time Data Informed Intelligent ChatBot for Transportation Surveillance and Management](https://arxiv.org/abs/2405.03076)**
+
+**[Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow](https://arxiv.org/abs/2306.07209)**
+**[[code](https://github.com/zwq2018/Data-Copilot)]**
+
 **[Querying Large Language Models with SQL](https://arxiv.org/pdf/2304.00472)**
+
 
 #### Text2SQL
 **[Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation](https://arxiv.org/abs/2308.15363)**
@@ -232,6 +252,33 @@ from Relational Data](https://iris.unibas.it/bitstream/11563/157086/1/42.SIGMOD2
 
 **[Towards Generalizable and Robust Text-to-SQL Parsing](https://arxiv.org/abs/2210.12674)**
 
+**[Before Generation, Align it! A Novel and Effective Strategy for Mitigating Hallucinations in Text-to-SQL Generation](https://arxiv.org/abs/2405.15307)**
+**[[code](https://github.com/quge2023/TA-SQL)]**
+
+
+#### Table2Text
+**[Robust (Controlled) Table-to-Text Generation with Structure-Aware Equivariance Learning](https://arxiv.org/abs/2205.03972)**
+**[[code](https://github.com/luka-group/Lattice)]**
+
+
+#### Fact Verification
+**[Table-based Fact Verification with Salience-aware Learning](https://arxiv.org/abs/2109.04053)**
+**[[code](https://github.com/luka-group/Salience-aware-Learning)]**
+
+#### Table Profiling
+
+**[Cocoon: Semantic Table Profiling Using Large Language Models](https://dl.acm.org/doi/abs/10.1145/3665939.3665957)**
+**[[code](https://cocoon-data-transformation.github.io/page/profile)]**
+
+
+#### Table Transformation
+
+**[Relationalizing Tables with Large Language Models: The Promise and Challenges](https://ieeexplore.ieee.org/abstract/document/10555085/)**
+
+#### Entity Matching
+
+**[Disambiguate Entity Matching using Large Language Models through Relation Discovery](https://dl.acm.org/doi/abs/10.1145/3665601.3669844)**
+**[[code](https://cocoon-data-transformation.github.io/page/standardize)]**
 
 <a id="dataset"></a>
 ## Datasets
@@ -264,6 +311,7 @@ TAPEX  | 1500 | Text2SQL | SQL, Table | Answer | Synthetic | https://github.com/
 Spider  | 1020 | Text2SQL | Table, Question | SQL | Human annotation | https://drive.usercontent.google.com/download?id=1iRDVHLr4mX2wQKSgA9J8Pire73Jahh0m&export=download&authuser=0 | 
 WIKISQL | 24241 | Text2SQL | Table, Question | SQL, Answer | Human Annotated | https://github.com/salesforce/WikiSQL                                                                         |
 BIRD | 12751 | Text2SQL | Table, Question | SQL | Human Annotated | https://bird-bench.github.io/                                                                                 |
+Tapilot-Crossing | 5 | Text2Code, QA, RAG | Table, Dialog History, Question, Private Lib, Chart | Python, Private Lib Code, Answer | Human-Agent Interaction | https://tapilot-crossing.github.io/ |
 
 ## Survey
 **[A Survey on Text-to-SQL Parsing: Concepts, Methods, and Future Directions](https://arxiv.org/abs/2208.13629)**
