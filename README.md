@@ -2,14 +2,17 @@
 
 
 ```
-@misc{fang2024large,
-      title={Large Language Models on Tabular Data -- A Survey}, 
-      author={Xi Fang and Weijie Xu and Fiona Anting Tan and Jiani Zhang and Ziqing Hu and Yanjun Qi and Scott Nickleach and Diego Socolinsky and Srinivasan Sengamedu and Christos Faloutsos},
-      year={2024},
-      eprint={2402.17944},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{
+fang2024large,
+title={Large Language Models ({LLM}s) on Tabular Data: Prediction, Generation, and Understanding - A Survey},
+author={Xi Fang and Weijie Xu and Fiona Anting Tan and Ziqing Hu and Jiani Zhang and Yanjun Qi and Srinivasan H. Sengamedu and Christos Faloutsos},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2024},
+url={https://openreview.net/forum?id=IZnrCGF9WI},
+note={}
 }
+
 ```
 [Original paper](https://arxiv.org/abs/2402.17944) 
 
