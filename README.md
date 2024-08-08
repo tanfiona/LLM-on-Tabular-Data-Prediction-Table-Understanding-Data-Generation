@@ -240,6 +240,9 @@ Knowledge Grounding
 **[C3: Zero-shot Text-to-SQL with ChatGPT](https://arxiv.org/abs/2307.07306)**
 **[[code](https://github.com/bigbigwatermalon/C3SQL)]**
 
+**[DBCopilot: Scaling Natural Language Querying to Massive Databases](https://arxiv.org/abs/2312.03463)**
+**[[code](https://github.com/tshu-w/DBCopilot?tab=readme-ov-file)]**
+
 **[Bridging the Gap: Deciphering Tabular Data Using Large Language Model](https://arxiv.org/abs/2308.11891)**
 
 **[TableQuery: Querying tabular data with natural language](https://arxiv.org/abs/2202.00454)**
