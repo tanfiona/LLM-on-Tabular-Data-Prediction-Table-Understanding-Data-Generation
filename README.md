@@ -82,6 +82,8 @@ Figure 4: Key techniques in using LLMs for tabular data. The dotted line indicat
 **[Towards Foundation Models for Learning on Tabular Data](https://arxiv.org/abs/2310.07338)**    
  
 
+**[Observatory: Characterizing Embeddings of Relational Tables](https://www.vldb.org/pvldb/vol17/p849-cong.pdf)**    
+**[[code](https://github.com/superctj/observatory)]**
 
 
 **[Towards Better Serialization of Tabular Data for Few-shot Classification with Large Language Models
@@ -285,6 +287,11 @@ Knowledge Grounding
 
 **[Disambiguate Entity Matching using Large Language Models through Relation Discovery](https://dl.acm.org/doi/abs/10.1145/3665601.3669844)**
 **[[code](https://cocoon-data-transformation.github.io/page/standardize)]**
+
+#### Table Representation
+
+**[Tables as Texts or Images: Evaluating the Table Reasoning Ability of LLMs and MLLMs](https://arxiv.org/pdf/2402.12424)**
+
 
 <a id="dataset"></a>
 ## Datasets
