@@ -105,7 +105,8 @@ Knowledge Grounding
 ](https://arxiv.org/abs/2403.20208)**
 **[[model](https://huggingface.co/OldBirdAZ/itab-llm)]**  
 
-
+**[Synthetic Oversampling: Theory and A Practical Approach Using LLMs to Address Data Imbalance
+](https://arxiv.org/abs/2406.03628)**  
 
 
 #### Time series 
